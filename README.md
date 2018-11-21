@@ -39,7 +39,7 @@ roslaunch robotnik_barcode_scanner barcode_scanner.launch
   ```
   ls -ln /dev/input | grep barcode
   ```
-  - Install evdev:
+- Install evdev:
   ```
   pip install evdev
   ```
